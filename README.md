@@ -81,6 +81,16 @@ different projects along with the people around me.
 
 <br/>
 <br/> -->
+<h2 align="center"> Blockchain Development Tools and Languages</h2>
+<p align="center">
+  <a href="https://www.kali.org/"><img
+      src="https://github.com/Hitarth-Vyas/Hitarth-Vyas/blob/main/gifs/Gns38.png" width="100"></a>
+  <a href="https://getbootstrap.com/"><img
+      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/bootstrap%20gif.gif" width="100"></a>
+  <a href="https://www.javatpoint.com/c-programming-language-tutorial"><img
+      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/c_language_gif.gif" width="100"></a>
+  
+</p>
 
 <!-- <a href="https://github.com/Hitarth-Vyas/github-readme-activity-graph">
 <img alt="Hit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hitarth-Vyas&bg_color=0D1117&color=5BCDEC&line=9dfc03&point=5BCDEC&hide_border=false" />
