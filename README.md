@@ -16,9 +16,9 @@ different projects along with the people around me.
 - I’m currently learning NodeJS and Ethereum Blockchain Development .
 
 <h2 align="center">Let's put our minds together</h2>
-<a href="https://github.com/Hitarth-Vyas"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'
+<a href="https://github.com/Kali-Decoder"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'
     alt='github' height='40'></a>
-<a href="https://www.instagram.com/utkarshyadav15/"><img
+<a href="https://www.instagram.com/nikku_choubisa/"><img
     src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a> 
 
 <h2 align="center">
