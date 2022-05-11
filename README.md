@@ -86,7 +86,7 @@ different projects along with the people around me.
    <a href="https://www.mysql.com/"><img src="https://www.sxsw.com/wp-content/uploads/2019/06/Blockchain-is-Building-Web-3-v2.gif"
       height="100" width="100"></a>
   <a href="https://code.visualstudio.com/"><img
-      src="https://i0.wp.com/bitcoinke.io/wp-content/uploads/2022/01/Web-3.0-GIF-2.gif?resize=640%2C360&ssl=1" width="100"></a>
+      src="https://i0.wp.com/bitcoinke.io/wp-content/uploads/2022/01/Web-3.0-GIF-2.gif" width="100"></a>
   
 </p>
 
