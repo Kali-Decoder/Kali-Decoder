@@ -7,7 +7,7 @@
   <br><br>
 </p>
 
-<h1><a href="https://github.com/Kali-Decoder">Neeraj Choubisa</a> Here</h1>
+<h1><a href="https://github.com/Kali-Decoder">Neeraj Choubisa</a></h1>
 I'm currently pursuing B.Tech in ECE from <a href="https://iiitdwd.ac.in/">IIIT Dharwad</a>. I really
 enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on
 different projects along with the people around me.
