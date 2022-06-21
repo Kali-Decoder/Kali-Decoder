@@ -1,99 +1,75 @@
-### Radhe Radhe 👋
 
 
-<br>
+<!-- hello -->
+
 <p align="center">
-  <img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/coding_languages_gif.gif">
-  <br><br>
+<h1>👋, I am Neeraj Choubisa(you can call me Nikku). Nice to connect!</h2> 
 </p>
 
-<h1><a href="https://github.com/Kali-Decoder">Neeraj Choubisa</a></h1>
+  <h1><a href="https://github.com/Kali-Decoder">Neeraj Choubisa</a></h1>
 I'm currently pursuing B.Tech in ECE from <a href="https://iiitdwd.ac.in/">IIIT Dharwad</a>. I really
 enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on
 different projects along with the people around me.
 
 - I’m currently working on Web Development.
 - I’m currently learning NodeJS and Ethereum Blockchain Development .
+  <br/>
+  <br/>I am currently an active moderator for [markdown-badges](https://github.com/Ileriayo/markdown-badges) repository. Would love collaborating on other open-source projects :)
 
-<h2 align="center">Let's put our minds together</h2>
-<a href="https://github.com/Kali-Decoder"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'
-    alt='github' height='40'></a>
-<a href="https://www.instagram.com/nikku_choubisa/"><img
-    src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a> 
+## 🔗 Know more about me 
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://flowcv.me/mehtansh)
+[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://nikku.hackerresume.io/Sl0fLhrYtoiJX8aHXfB9)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:neerajchoubisa876@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Ansh%20Mehta-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/neeraj-choubisa-a4952b202/)
+[![Twitter](https://img.shields.io/badge/-@mehtansh-black?style=for-the-badge&logo=twitter)](https://twitter.com/itsNikku876)
+[![HackerRank](https://img.shields.io/badge/-@mehtansh-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/neerajchoubisa81)
 
-<h2 align="center">
-  I code with
-</h2>
-<p align="center">
-  <a href="https://www.kali.org/"><img
-      src="https://github.com/Hitarth-Vyas/Hitarth-Vyas/blob/main/gifs/Gns38.png" width="100"></a>
-  <a href="https://getbootstrap.com/"><img
-      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/bootstrap%20gif.gif" width="100"></a>
-  <a href="https://www.javatpoint.com/c-programming-language-tutorial"><img
-      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/c_language_gif.gif" width="100"></a>
-  <a href="https://www.javatpoint.com/c-programming-language-tutorial"><img
-      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/c%2B%2B%20gif.gif" height="100" width="100"></a>
-  <a href="https://www.w3schools.com/css/"><img
-      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/css_gif.gif" height="100" width="100"></a>
-  <a href="https://firebase.google.com/"><img
-      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/firebase_gif.gif" height="100" width="100"></a>
-  <a href="https://github.com/"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/git_main_gif.gif"
-      height="100" width="100"></a>
-  <a href="https://www.w3schools.com/html/"><img
-      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/html%20gif.gif" width="100"></a>
-    <br>
-  <a href="https://www.javascript.com/"><img
-      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/js%20logo.gif" width="100"></a>
-  <a href="https://in.mathworks.com/products/matlab.html"><img
-      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/matlab_gif.gif" height="100" width="100"></a>
-  <a href="https://www.mongodb.com/"><img
-      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/mongodb_gif.gif" height="100" width="100"></a>
-  <a href="https://nodejs.org/en/"><img
-      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/node_laptop%20gif.gif" height="100"
-      width="100"></a>
-  <a href="https://www.python.org/"><img
-      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/python%20gif.gif" width="100"></a>
-  <a href="https://reactjs.org/"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/react%20gif.gif"
-      height="100" width="100"></a>
-  <a href="https://www.mysql.com/"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/sql%20logo.gif"
-      height="100" width="100"></a>
-  <a href="https://code.visualstudio.com/"><img
-      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/vs_gif.gif" width="100"></a>
-</p>
-<br /><br />
-<h2 align="center">📊 Github Statistics</h2>
-<br />
-<p align="left" display="flex">
-  <a href="https://github.com/Hitarth-Vyas/github-readme-stats"><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitarth-Vyas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-<!-- <p align="right">Top languages is matric of public repos and doesn't reflect experience</p> -->
-<!-- <p align="right">
-  <a href="https://github.com/Hitarth-Vyas/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Hitarth-Vyas&theme=black-ice&hide_border=true&stroke=5BCDEC&background=060A0CD0" />
-  </a>
-</p> -->
-<!-- <br />
-<br />
 
+## 🛠 Languages and Tools:
+
+#### Languages:
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![c](https://img.shields.io/badge/c%20-%2314354C.svg?&style=for-the-badge&logo=c&logoColor=white)
+![c++](https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=c++&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity%20-%231572B6.svg?&style=for-the-badge&logo=solidity&logoColor=white)
+
+#### Frontend:
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
+![Semantic UI](https://img.shields.io/badge/semantic%20UI%20-%234ABDB2.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNC4xLjIsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAyNTYgMjU2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDojRkZGRkZGO30NCjwvc3R5bGU+DQo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTI0LjUsMjA3LjFjLTIyLjktMi00MC4xLTE0LjUtNjEuOS0yMy44Yy05LjUsMTQuNS0yMC42LDI0LjQtMzAuMSwzOWMzNy45LDI0LjMsODIuNyw0MS42LDEyOC44LDMwLjINCgljMzUuMy04LjcsNTcuNS0zNS4yLDYwLjEtNzIuMWMyLTI5LTE1LjEtNTEuNi00OC43LTY1LjZjLTE4LjQtNy43LTM0LjgtMTUtNTMuNS0yMS45Yy0xMS4zLTQuMi0yMi4yLTEwLjktMjAtMjMuMg0KCWMyLjQtMTMuMSwxMy43LTIwLjMsMjYuOS0yMC42YzIzLjEtMC40LDQwLjcsOC43LDYwLjYsMjAuMmMxMC4zLTEzLjYsMTguMy0yMy40LDI4LjctMzcuMUMxNzYuMyw3LDE0Ni42LTEwLDkyLjYsNi42DQoJYy0zNS4xLDEwLjktNDkuNSw0NS44LTQ5LjUsNjNDNDEsOTkuMSw1My43LDEyNC4xLDg1LDEzNi45YzE2LjksNi45LDM0LjIsMTQuNCw1MS40LDIwLjVjMTQuNSw1LjEsMjkuNCwxNC4zLDI2LjEsMzEuNA0KCUMxNTksMjA3LjcsMTQwLjcsMjA4LjUsMTI0LjUsMjA3LjF6Ii8+DQo8L3N2Zz4NCg==)
+![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+#### Backend:
+![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express)
+
+
+#### Database:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
+
+#### Hosting:
+
+![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)
+
+
+#### Others:
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code%20-%230070D1.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-0078D6?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+## Some of my Github Stats!
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mehtaAnsh&show_icons=true&include_all_commits=true)](https://github.com/Kali-Decoder/github-readme-stats)
+&nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtaAnsh&layout=compact)](https://github.com/Kali-Decoder/github-readme-stats)
 
 <br/>
-<br/> -->
-<h2 align="center"> Blockchain Development Tools and Languages</h2>
-<p align="center">
-   <a href="https://www.mysql.com/"><img src="https://www.sxsw.com/wp-content/uploads/2019/06/Blockchain-is-Building-Web-3-v2.gif"
-      height="100" width="100"></a>
-  <a href="https://code.visualstudio.com/"><img
-      src="https://i0.wp.com/bitcoinke.io/wp-content/uploads/2022/01/Web-3.0-GIF-2.gif" width="100"></a>
-  
-</p>
-
-<!-- <a href="https://github.com/Hitarth-Vyas/github-readme-activity-graph">
-<img alt="Hit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hitarth-Vyas&bg_color=0D1117&color=5BCDEC&line=9dfc03&point=5BCDEC&hide_border=false" />
-</a> -->
-<h2 align="center"> Pleasure to have you, waiting for your next visit.....</h2>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=Hitarth-Vyas">
-</a>
