@@ -68,8 +68,6 @@ different projects along with the people around me.
 
 ## Some of my Github Stats!
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mehtaAnsh&show_icons=true&include_all_commits=true)](https://github.com/Kali-Decoder/github-readme-stats)
-&nbsp; &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtaAnsh&layout=compact)](https://github.com/Kali-Decoder/github-readme-stats)
+
 
 <br/>
