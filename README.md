@@ -17,12 +17,12 @@ different projects along with the people around me.
   <br/>I am currently an active moderator for [markdown-badges](https://github.com/Ileriayo/markdown-badges) repository. Would love collaborating on other open-source projects :)
 
 ## 🔗 Know more about me 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://flowcv.me/mehtansh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://flowcv.me/NeerajChoubisa)
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://nikku.hackerresume.io/Sl0fLhrYtoiJX8aHXfB9)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:neerajchoubisa876@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Ansh%20Mehta-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/neeraj-choubisa-a4952b202/)
-[![Twitter](https://img.shields.io/badge/-@mehtansh-black?style=for-the-badge&logo=twitter)](https://twitter.com/itsNikku876)
-[![HackerRank](https://img.shields.io/badge/-@mehtansh-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/neerajchoubisa81)
+[![Linkedin](https://img.shields.io/badge/-Neeraj%20Choubisa-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/neeraj-choubisa-a4952b202/)
+[![Twitter](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=twitter)](https://twitter.com/itsNikku876)
+[![HackerRank](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/neerajchoubisa81)
 
 
 ## 🛠 Languages and Tools:
