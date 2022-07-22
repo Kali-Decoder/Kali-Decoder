@@ -66,7 +66,7 @@ different projects along with the people around me.
 ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-0078D6?style=for-the-badge&logo=Ethereum&logoColor=white)
 
-## Some of my Github Stats!
+
 
 
 
