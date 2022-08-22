@@ -3,7 +3,8 @@
 <!-- hello -->
 
 <p align="center">
-<h1>👋, I am Neeraj Choubisa(you can call me Nikku). Nice to connect!</h2> 
+<h1>👋, 
+I am Neeraj Choubisa(you can call me Nikku). Nice to connect!</h2> 
 </p>
 
   <h1><a href="https://github.com/Kali-Decoder">Neeraj Choubisa</a></h1>
