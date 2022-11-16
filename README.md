@@ -25,7 +25,8 @@ different projects along with the people around me.
 [![Twitter](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=twitter)](https://twitter.com/itsNikku876)
 [![HackerRank](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/neerajchoubisa81)
 
-<p align="center">
+## 🔗 Github Analysis 
+<p>
 <a href="https://github.com/Kali-Decoder">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kali-Decoder&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kali-Decoder&layout=compact&langs_count=8&theme=blue-green"/>
