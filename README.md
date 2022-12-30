@@ -3,10 +3,9 @@
 <!-- hello -->
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+ , + This + Side + Neeraj + Choubisa;Full + Stack + Blockchain +Developer)](https://www.linkedin.com/in/neeraj-choubisa-a4952b202/)
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&width=435&lines=This+%2C+Side+Neeraj+Choubisa+;Full+Stack+Web+Blockchain+Developer" alt="Typing SVG" /></a>
+  </h1>
 </p>
-
-  <h1><a href="https://github.com/Kali-Decoder">Neeraj Choubisa</a></h1>
 I'm currently pursuing B.Tech in ECE from <a href="https://iiitdwd.ac.in/">IIIT Dharwad</a>. I really
 enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on
 different projects along with the people around me.
