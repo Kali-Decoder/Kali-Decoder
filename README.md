@@ -3,8 +3,7 @@
 <!-- hello -->
 
 <p align="center">
-<h1>👋, 
-I am Neeraj Choubisa</h2> 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+ , + This + Side + Neeraj + Choubisa;Full + Stack + Blockchain +Developer)](https://www.linkedin.com/in/neeraj-choubisa-a4952b202/)
 </p>
 
   <h1><a href="https://github.com/Kali-Decoder">Neeraj Choubisa</a></h1>
