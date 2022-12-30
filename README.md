@@ -3,8 +3,8 @@
 <!-- hello -->
 
 <p align="center">
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&width=435&lines=This+%2C+Side+Neeraj+Choubisa+;Full+Stack+Web+Blockchain+Developer" alt="Typing SVG" /></a>
-  </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&width=435&lines=This+%2C+Side+Neeraj+Choubisa+;Full+Stack+Web+Blockchain+Developer" alt="Typing SVG" /></a>
+  
 </p>
 I'm currently pursuing B.Tech in ECE from <a href="https://iiitdwd.ac.in/">IIIT Dharwad</a>. I really
 enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on
