@@ -23,6 +23,8 @@ different projects along with the people around me.
 [![Twitter](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=twitter)](https://twitter.com/itsNikku876)
 [![HackerRank](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/neerajchoubisa81)
 
+[![An image of @nikku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikku)](https://holopin.io/@nikku)
+
 ## 🔗 Github Analysis 
 <p>
 <a href="https://github.com/Kali-Decoder">
