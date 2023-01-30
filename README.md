@@ -15,6 +15,9 @@ different projects along with the people around me.
   <br/>
   <br/>I am currently an active moderator for [markdown-badges](https://github.com/Ileriayo/markdown-badges) repository. Would love collaborating on other open-source projects :)
 
+
+[![An image of @nikku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikku)](https://holopin.io/@nikku)
+
 ## 🔗 Know more about me 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://flowcv.me/NeerajChoubisa)
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://nikku.hackerresume.io/Sl0fLhrYtoiJX8aHXfB9)
@@ -23,7 +26,7 @@ different projects along with the people around me.
 [![Twitter](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=twitter)](https://twitter.com/itsNikku876)
 [![HackerRank](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/neerajchoubisa81)
 
-[![An image of @nikku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikku)](https://holopin.io/@nikku)
+
 
 ## 🔗 Github Analysis 
 <p>
