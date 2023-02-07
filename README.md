@@ -35,7 +35,8 @@ different projects along with the people around me.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kali-Decoder&layout=compact&langs_count=8&theme=blue-green"/>
 </a>
 </p>
-
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kali-Decoder&" alt="neeraj" /></p>
 ## 🛠 Languages and Tools:
 
 #### Languages:
