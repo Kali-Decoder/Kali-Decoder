@@ -18,6 +18,12 @@ different projects along with the people around me.
 
 [![An image of @nikku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikku)](https://holopin.io/@nikku)
 
+## 🔗 Github Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Kali-Decoder&theme=darkhub">
+</p>
+
+
 ## 🔗 Know more about me 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://flowcv.me/NeerajChoubisa)
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://nikku.hackerresume.io/Sl0fLhrYtoiJX8aHXfB9)
@@ -26,10 +32,6 @@ different projects along with the people around me.
 [![Twitter](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=twitter)](https://twitter.com/itsNikku876)
 [![HackerRank](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/neerajchoubisa81)
 
-## 🔗 Github Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kali-Decoder&theme=darkhub">
-</p>
 
 
 ## 🔗 Github Analysis 
