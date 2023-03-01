@@ -26,6 +26,10 @@ different projects along with the people around me.
 [![Twitter](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=twitter)](https://twitter.com/itsNikku876)
 [![HackerRank](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/neerajchoubisa81)
 
+## 🔗 Github Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Kali-Decoder&theme=darkhub">
+</p>
 
 
 ## 🔗 Github Analysis 
