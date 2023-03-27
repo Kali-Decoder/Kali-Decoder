@@ -3,7 +3,7 @@
 <!-- hello -->
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&width=500&lines=This+%2C+Side+Neeraj+Choubisa+;FFull+Stack+Web+Blockchain+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&width=550&lines=This+%2C+Side+Neeraj+Choubisa+;  Full+Stack+Web+Blockchain+Developer" alt="Typing SVG" /></a>
   
 </p>
 I'm currently pursuing B.Tech in ECE from <a href="https://iiitdwd.ac.in/">IIIT Dharwad</a>. I really
