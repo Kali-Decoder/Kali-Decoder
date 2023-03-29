@@ -11,9 +11,7 @@ enjoy learning languages and developing some non-existing outcomes to solve real
 different projects along with the people around me.
 
 - I’m currently working in a ZOTH Comapny as Full Stack Developer .
-
-  <br/>
-  I am currently an active moderator for [markdown-badges](https://github.com/Ileriayo/markdown-badges) repository. Would love collaborating on other open-source projects :)
+-  Would love collaborating on other open-source projects :)
 
 
 [![An image of @nikku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikku)](https://holopin.io/@nikku)
