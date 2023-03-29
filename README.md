@@ -10,8 +10,8 @@ I'm currently pursuing B.Tech in ECE from <a href="https://iiitdwd.ac.in/">IIIT 
 enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on
 different projects along with the people around me.
 
-- I’m currently working on Web Development.
-- I’m currently learning NodeJS and Ethereum Blockchain Development .
+- I’m currently working in a ZOTH Comapny as Full Stack Developer .
+
   <br/>
   <br/>I am currently an active moderator for [markdown-badges](https://github.com/Ileriayo/markdown-badges) repository. Would love collaborating on other open-source projects :)
 
