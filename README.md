@@ -10,7 +10,7 @@ I'm currently pursuing B.Tech in ECE from <a href="https://iiitdwd.ac.in/">IIIT 
 enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on
 different projects along with the people around me.
 
-- I’m currently working in a ZOTH Comapny as Full Stack Developer .
+- I’m currently working in a XCavate Comapny as Full Stack Developer .
 -  Would love collaborating on other open-source projects :)
 
 
