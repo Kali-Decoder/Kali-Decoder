@@ -5,7 +5,10 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&width=550&lines=This+%2C+Side+Neeraj+Choubisa+;  Full+Stack+Web+Blockchain+Developer" alt="Typing SVG" /></a>
   
+
 </p>
+![Nikku Dev](https://github.com/Kali-Decoder/Kali-Decoder/assets/82640789/9bc1de78-6d6d-4454-813b-58deb927c249)
+<br/>
 I'm currently pursuing B.Tech in ECE from <a href="https://iiitdwd.ac.in/">IIIT Dharwad</a>. I really
 enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on
 different projects along with the people around me.
