@@ -4,6 +4,7 @@
 
 <img height="180em" width="100%" src="https://github.com/Kali-Decoder/Kali-Decoder/assets/82640789/9745c29a-b011-430f-8008-2572dbc11e66"/>
 <br/>
+<br/>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&width=550&lines=This+%2C+Side+Neeraj+Choubisa+;  Full+Stack+Web+Blockchain+Developer" alt="Typing SVG" /></a>
   
@@ -11,13 +12,10 @@
 </p>
 
 <br/>
-I'm currently pursuing B.Tech in ECE from <a href="https://iiitdwd.ac.in/">IIIT Dharwad</a>. I really
-enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on
-different projects along with the people around me.
 
-- I’m currently working in a Buildorz Comapny as Full Stack Developer .
--  Would love collaborating on other open-source projects :)
+Meet a dynamic problem-solver, passionate about blockchain technology. With a track record of success, I've triumphed at hackathons, including Toyota and Polkadot DAO 🏆, and am an ETHIndia'22 Polygon DeFi Track champion 🏆. As a Full Stack Ethereum Blockchain Developer, I drive innovation.🏆
 
+<br/>
 
 [![An image of @nikku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikku)](https://holopin.io/@nikku)
 
