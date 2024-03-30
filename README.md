@@ -36,6 +36,7 @@ Meet a dynamic problem-solver, passionate about blockchain technology. With a tr
 
 
 ## 🔗 Github Analysis 
+![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kali-Decoder&theme=radical&hide_border=true) <br/> <br/> 
 <p>
 <a href="https://github.com/Kali-Decoder">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kali-Decoder&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
