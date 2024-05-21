@@ -2,7 +2,8 @@
 
 <!-- hello -->
 
-![banner](https://github.com/Kali-Decoder/Kali-Decoder/assets/82640789/086bf276-822f-4447-a627-5604b947f27d)
+![banner](https://github.com/Kali-Decoder/Kali-Decoder/assets/82640789/49922602-7503-42dd-a841-698738fb3854)
+
 
 <br/>
 <br/>
