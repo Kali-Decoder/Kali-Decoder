@@ -2,7 +2,7 @@
 
 <!-- hello -->
 
-![banner](https://github.com/Kali-Decoder/Kali-Decoder/assets/82640789/49922602-7503-42dd-a841-698738fb3854)
+<img width="1983" height="793" alt="Penumbra Architecture Overview Jul 2 2026" src="https://github.com/user-attachments/assets/c5014ae2-88f9-4cfd-8286-e196ddabfe10" />
 
 
 <br/>
